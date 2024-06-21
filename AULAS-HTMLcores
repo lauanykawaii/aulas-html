@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>CORES EM TEXTO </title>
+</head>
+<body>
+
+<h1>CORES EM TEXTO </h1>
+<p>Exemplos: </p> 
+
+<html> 
+    <body> 
+        <font color="#8B008B">Exemplo de cor de fonte usando o atributo color com código hexadecimal</font> 
+    </body> 
+</html>
+
+
+
+</body>
+</html>
