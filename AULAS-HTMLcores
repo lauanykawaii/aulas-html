@@ -1,20 +1,33 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>CORES EM TEXTO </title>
+<title>CORES EM TEXTOS</title>
 </head>
 <body>
 
-<h1>CORES EM TEXTO </h1>
-<p>Exemplos: </p> 
+<body bgcolor="8B0000">
 
-<html> 
-    <body> 
-        <font color="#8B008B">Exemplo de cor de fonte usando o atributo color com código hexadecimal</font> 
-    </body> 
-</html>
+<h1>CORES EM TEXTOS</h1>
+<p>
+EXEMPLOS:</p>
+<p>
+<b>TEXTO DE COR:</b></p>
+<ul>
+   <li><font color="#FF8C00">LARANJA</font></li>
+      <li><font color="#00FF00">LIMA</font></li>
+         <li><font color="#B0E0E6">POWDERBLUE</font></li>
+            <li><font color="#FF0000">VERMELHO</font></li>
+               <li><font color="#1E90FF">DODGERBLUE</font></li>
+                  <li><font color="#8B4513">CHOCOLATE</font></li>
+                     <li><font color="#A020F0">PURPURA</font></li>
 
 
+
+
+
+
+</ul>
+<div aling=right>
 
 </body>
 </html>
